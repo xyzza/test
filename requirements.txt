@@ -1,0 +1,6 @@
+aiohttp==3.5.4
+aiopg==0.16.0
+envparse==0.2.0
+Click==7.0
+yoyo-migrations==6.1.0
+uvloop==0.12.2

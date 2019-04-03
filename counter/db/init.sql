@@ -1,0 +1,3 @@
+CREATE DATABASE counter;
+CREATE USER counter WITH PASSWORD 'counter';
+GRANT ALL PRIVILEGES ON DATABASE "counter" to counter;
